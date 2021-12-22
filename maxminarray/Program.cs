@@ -21,8 +21,8 @@ class program
                 min = arr[i];
             }
         }
-        Console.WriteLine("Maximum elements =   " + max);
-        Console.Write("Minimum elements =   " +min);
+        Console.WriteLine("Maximum element is =   " + max);
+        Console.Write("Minimum element is =   " +min);
         Console.ReadKey();
     }
 }
