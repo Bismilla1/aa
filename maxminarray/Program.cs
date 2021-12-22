@@ -25,11 +25,6 @@ class program
         Console.Write("Minimum elements =   " +min);
         Console.ReadKey();
     }
-
-
-        
-    
-
 }
 
 
