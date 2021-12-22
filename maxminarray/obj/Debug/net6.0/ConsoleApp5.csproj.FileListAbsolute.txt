@@ -1,0 +1,15 @@
+C:\Bismillah\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.exe
+C:\Bismillah\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.deps.json
+C:\Bismillah\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.runtimeconfig.json
+C:\Bismillah\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.dll
+C:\Bismillah\ConsoleApp5\bin\Debug\net6.0\ref\ConsoleApp5.dll
+C:\Bismillah\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.pdb
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfo.cs
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.dll
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ref\ConsoleApp5.dll
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.pdb
+C:\Bismillah\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.genruntimeconfig.cache
