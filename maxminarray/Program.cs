@@ -4,7 +4,7 @@ class program
 {
     static void Main(string[] args)
     {
-        int[] arr = {  9,7, 78,1,100 } ;
+        int[] arr = {  9,7, 78,1,100,200 } ;
         int  i,min, max;
         int n=arr.Length;
         max = arr[0];
